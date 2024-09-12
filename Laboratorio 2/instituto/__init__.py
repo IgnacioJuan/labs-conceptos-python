@@ -1,0 +1,2 @@
+from .estudiante import devolver_materias
+from .clase import estudiante_registrado_en_materia
